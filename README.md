@@ -45,3 +45,7 @@ In this research, advanced deep learning models—InceptionV3, VGG16, and ResNet
 The study explored the synergies of these models through soft voting ensemble techniques, yielding a remarkable combined accuracy of 99%. This method underscores the effectiveness of ensemble methodologies in medical image analysis.
 
 This research paves the way for continued innovation in medical image analysis, emphasizing the transformative potential of collaborative model approaches in complex healthcare applications.
+
+## Related Paper
+For more detailed information, please refer to our related paper:
+[Automated Retinal Glaucoma Classification using Deep Learning Models](https://ieeexplore.ieee.org/document/10582200/keywords#keywords)
